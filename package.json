@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "This project changes background with user input.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashasReddy/background-generator.git"
+  },
+  "author": "Yashas Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashasReddy/background-generator/issues"
+  },
+  "homepage": "https://github.com/YashasReddy/background-generator#readme"
+}
